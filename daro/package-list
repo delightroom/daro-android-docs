@@ -9,7 +9,8 @@ $dokka.location:droom.daro.lib.adunit/DaroAdBannerUnit/placementName/#/PointingT
 $dokka.location:droom.daro.lib.adunit/DaroAdBannerUnit/refreshSeconds/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-banner-unit/refresh-seconds.html
 $dokka.location:droom.daro.lib.adunit/DaroAdBannerUnit/unitId/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-banner-unit/unit-id.html
 $dokka.location:droom.daro.lib.adunit/DaroAdInterstitialUnit///PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-interstitial-unit/index.html
-$dokka.location:droom.daro.lib.adunit/DaroAdInterstitialUnit/DaroAdInterstitialUnit/#kotlin.String#kotlin.String/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-interstitial-unit/-daro-ad-interstitial-unit.html
+$dokka.location:droom.daro.lib.adunit/DaroAdInterstitialUnit/DaroAdInterstitialUnit/#kotlin.String#kotlin.String#kotlin.String?/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-interstitial-unit/-daro-ad-interstitial-unit.html
+$dokka.location:droom.daro.lib.adunit/DaroAdInterstitialUnit/apsSlotUUID/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-interstitial-unit/aps-slot-u-u-i-d.html
 $dokka.location:droom.daro.lib.adunit/DaroAdInterstitialUnit/placementName/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-interstitial-unit/placement-name.html
 $dokka.location:droom.daro.lib.adunit/DaroAdInterstitialUnit/unitId/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-interstitial-unit/unit-id.html
 $dokka.location:droom.daro.lib.adunit/DaroAdNativeUnit///PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-native-unit/index.html
@@ -18,7 +19,8 @@ $dokka.location:droom.daro.lib.adunit/DaroAdNativeUnit/placementName/#/PointingT
 $dokka.location:droom.daro.lib.adunit/DaroAdNativeUnit/refreshSeconds/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-native-unit/refresh-seconds.html
 $dokka.location:droom.daro.lib.adunit/DaroAdNativeUnit/unitId/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-native-unit/unit-id.html
 $dokka.location:droom.daro.lib.adunit/DaroAdRewardedUnit///PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-rewarded-unit/index.html
-$dokka.location:droom.daro.lib.adunit/DaroAdRewardedUnit/DaroAdRewardedUnit/#kotlin.String#kotlin.String/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-rewarded-unit/-daro-ad-rewarded-unit.html
+$dokka.location:droom.daro.lib.adunit/DaroAdRewardedUnit/DaroAdRewardedUnit/#kotlin.String#kotlin.String#kotlin.String?/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-rewarded-unit/-daro-ad-rewarded-unit.html
+$dokka.location:droom.daro.lib.adunit/DaroAdRewardedUnit/apsSlotUUID/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-rewarded-unit/aps-slot-u-u-i-d.html
 $dokka.location:droom.daro.lib.adunit/DaroAdRewardedUnit/placementName/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-rewarded-unit/placement-name.html
 $dokka.location:droom.daro.lib.adunit/DaroAdRewardedUnit/unitId/#/PointingToDeclaration/daro/droom.daro.lib.adunit/-daro-ad-rewarded-unit/unit-id.html
 $dokka.location:droom.daro.lib.banner////PointingToDeclaration/daro/droom.daro.lib.banner/index.html
@@ -111,6 +113,7 @@ $dokka.location:droom.daro.lib.nativead/DaroAdNativeView/setClickConfirmingView/
 $dokka.location:droom.daro.lib.nativead/DaroAdNativeView/setHeadlineView/#android.view.View/PointingToDeclaration/daro/droom.daro.lib.nativead/-daro-ad-native-view/set-headline-view.html
 $dokka.location:droom.daro.lib.nativead/DaroAdNativeView/setIconView/#android.view.View/PointingToDeclaration/daro/droom.daro.lib.nativead/-daro-ad-native-view/set-icon-view.html
 $dokka.location:droom.daro.lib.nativead/DaroAdNativeView/setImageView/#android.view.View/PointingToDeclaration/daro/droom.daro.lib.nativead/-daro-ad-native-view/set-image-view.html
+$dokka.location:droom.daro.lib.nativead/DaroAdNativeView/setMediaView/#com.google.android.gms.ads.nativead.MediaView/PointingToDeclaration/daro/droom.daro.lib.nativead/-daro-ad-native-view/set-media-view.html
 $dokka.location:droom.daro.lib.nativead/DaroAdNativeView/setNativeAd/#droom.daro.lib.nativead.DaroNativeAd/PointingToDeclaration/daro/droom.daro.lib.nativead/-daro-ad-native-view/set-native-ad.html
 $dokka.location:droom.daro.lib.nativead/DaroAdNativeView/setPriceView/#android.view.View/PointingToDeclaration/daro/droom.daro.lib.nativead/-daro-ad-native-view/set-price-view.html
 $dokka.location:droom.daro.lib.nativead/DaroAdNativeView/setStarRatingView/#android.view.View/PointingToDeclaration/daro/droom.daro.lib.nativead/-daro-ad-native-view/set-star-rating-view.html
